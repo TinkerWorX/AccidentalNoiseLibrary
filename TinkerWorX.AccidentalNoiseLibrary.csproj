@@ -55,6 +55,7 @@
     <Compile Include="Implicit\ImplicitBias.cs" />
     <Compile Include="Implicit\ImplicitBlend.cs" />
     <Compile Include="Implicit\ImplicitBrightContrast.cs" />
+    <Compile Include="Implicit\ImplicitConcurrentCache.cs" />
     <Compile Include="Implicit\ImplicitCache.cs" />
     <Compile Include="Implicit\ImplicitCeiling.cs" />
     <Compile Include="Implicit\ImplicitCellular.cs" />
